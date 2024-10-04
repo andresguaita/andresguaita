@@ -1,5 +1,5 @@
 ### Hola 👋, Mi nombre es Andres Guaita
-#### Desarrollador FullStack
+#### Desarrollador Backend
 ![Desarrollador FullStack](https://res.cloudinary.com/dxymci4b6/image/upload/v1645754725/Banner_Redes_1_sre9it.jpg)
 
 Desarrollador FullStack apasionado, con un amor único por crear tecnologías que ayuden a las personas a mejorar su vida, que encuentra alegría en el trabajo duro y práctico requerido para resolver los desafíos más complejos en desarrollo de Software. Con conocimientos de JavaScript, HTML, CSS, React ,React Native, Postgres, y en constante aprendizaje.
