@@ -1,4 +1,4 @@
-### Hola 👋, Mi nombre es Andres Guaita
+### Hi 👋, My name is Andres Guaita
 #### Desarrollador Backend
 
 I am a Telecommunications Technologist and Backend Developer with over 4 years of experience in IT, including more than 3 years as a Software Developer. My expertise spans a wide range of technologies, including JavaScript, TypeScript, Node JS, Express, NestJS, Postgres, MongoDB, Serverless Framework, Amazon Web Services (Cognito, Lambda, SNS, DynamoDB), Google Cloud Provider (Cloud SQL, App Engine, Cloud Functions), Ruby, and many other relevant technologies in the field.
